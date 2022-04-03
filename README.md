@@ -1,4 +1,4 @@
-# Minecraft-Java-Edition-Mineral-Stroke-Texture-Pack
+# Minecraft Java版矿物描边材质
 [Universal Version]Put a bold edge on the minerals of your world!
 
 [全版本通用]给你世界中的矿物带上醒目的边吧
