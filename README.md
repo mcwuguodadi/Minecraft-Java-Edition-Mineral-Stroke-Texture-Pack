@@ -14,4 +14,5 @@
 
 ## 下载及安装
 
-[教程:加载资源包](https://zh.minecraft.wiki/w/Tutorial:%E5%8A%A0%E8%BD%BD%E8%B5%84%E6%BA%90%E5%8C%85)来自Minecraft Wiki
+1. 从[不知道什么时候会更新的release中下载](https://github.com/mcwuguodadi/Minecraft-Java-Edition-Mineral-Stroke-Texture-Pack/releases)
+2. [教程:加载资源包](https://zh.minecraft.wiki/w/Tutorial:%E5%8A%A0%E8%BD%BD%E8%B5%84%E6%BA%90%E5%8C%85)来自Minecraft Wiki
